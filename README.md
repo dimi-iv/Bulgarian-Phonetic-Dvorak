@@ -13,6 +13,7 @@ Here are all the new mappings:
 
 ![Lowercase Layout](https://github.com/house-owl/Bulgarian-Phonetic-Dvorak/raw/master/layout_images/lowercase-layout.png)
 ![Uppercase Layout](https://github.com/house-owl/Bulgarian-Phonetic-Dvorak/raw/master/layout_images/uppercase-layout.png)
+![Caplock Layout](https://github.com/house-owl/Bulgarian-Phonetic-Dvorak/raw/master/layout_images/caplock-layout.png)
 
 To install on a mac:
 
