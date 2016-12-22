@@ -17,7 +17,6 @@ Here are all the new mappings:
 To install on a mac:
 
     git clone https://github.com/house-owl/Bulgarian-Phonetic-Dvorak.git
-    cd Bulgarian-Phonetic-Dvorak/
     sudo cp Bulgarian-Phonetic-Dvorak/layout/* /Library/Keyboard\ Layouts/
 
 This layout was created using [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
